@@ -1,7 +1,7 @@
 h1 {
 	text-align:center;
 	color: #FF007F
-	font-size: 125px;
+	font-size: 200px;
 }
 
 
@@ -14,35 +14,35 @@ h1 {
 .heading {
 	text-align:center ;
 	color: #323D95;
-	font-size: 70px;
+	font-size: 50px;
 }
 
 h2{
 	text-align: left; 
-	font-size: 60px;
+	font-size: 40px;
 	color: steelblue;
 }
 
 h3{
 	text-align: left;
-	font-size: 50px;
+	font-size: 30px;
 	color: #001540;
 }
 
 h4{
 	text-align: left;
-	font-size: 40px;
+	font-size: 20px;
 	color: #001C57
 }
 
 
 h5{ 
 	text-align: left;
-	font-size: 30px;
+	font-size: 10px;
 	color:#00316E;
  }
 
  p{
 	text-align: left;
-	font-size: 40px;
+	font-size: 20px;
  }
