@@ -4,7 +4,14 @@ body { background-color: #e9e3f4;
 h1 {
 	text-align:center;
 	color: steelblue;
-	font-size: 225px;
+	font-size: 125px;
+	float: right;
+}
+
+.blocks{
+	display:block;
+	float: left
+	
 }
 
 
@@ -38,9 +45,6 @@ h4{
 	color: #001C57
 }
 
-.blocks{
-	display:block;
-}
 
 h5{ 
 	text-align: left;
