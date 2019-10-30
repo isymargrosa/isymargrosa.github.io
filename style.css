@@ -38,6 +38,9 @@ h4{
 	color: #001C57
 }
 
+.blocks{
+	display:block;
+}
 
 h5{ 
 	text-align: left;
